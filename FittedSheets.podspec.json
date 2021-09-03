@@ -9,15 +9,15 @@
     "Gordon Tucker": "gordon.michael.tucker@gmail.com"
   },
   "source": {
-    "git": "https://github.com/gordontucker/FittedSheets.git",
+    "git": "https://github.com/arriiiffff/FittedSheets.git",
     "tag": "1.4.6"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "10.0"
   },
   "social_media_url": "https://twitter.com/tuckeredoutfmly",
   "requires_arc": true,
   "source_files": "FittedSheetsPod/**/*.swift",
   "frameworks": [],
-  "swift_version": "5"
+  "swift_version": "4.2"
 }
